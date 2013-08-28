@@ -1,5 +1,8 @@
 <?php 
 
+
+вввввввввввЫУВ
+
 if ( !$top_users_count )
 	$top_users_count = ( is_page('home') ) ? $GLOBAL_VARS['top_users_per_home'] : $GLOBAL_VARS['top_users'];
 
